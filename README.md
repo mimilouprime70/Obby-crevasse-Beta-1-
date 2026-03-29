@@ -5,4 +5,4 @@ How to see :
 - View raw
 - Open the fils (have Roblox Studio)
 
-My game isn't finished yet, there are only two levels, but it's a taste of what's to come.:)
+My game isn't finished yet, there are only two levels, but it's a taste of what's to come.  :)
