@@ -2,6 +2,7 @@
 
 This is just my first Obby game on Roblox. You move straight ahead and just have to complete the challenges along the way while staying in a crevasse.
 
+If you want to play ( with Roblox only ) : https://www.roblox.com/fr/games/139922142724357/Obby-in-crevasse
 
 I've uploaded the game's source files directly to GitHub ! 
 
