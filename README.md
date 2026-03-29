@@ -1,4 +1,10 @@
 # Obby-crevasse-Beta-1-
+
+This is just my first Obby game on Roblox. You move straight ahead and just have to complete the challenges along the way while staying in a crevasse.
+
+
+I've uploaded the game's source files directly to GitHub ! 
+
 To see how the game is made, open the attached files (make sure you have Roblox Studio installed on your computer)
 How to see :
 - Obby in crevasse [Beta 1].rbxl
